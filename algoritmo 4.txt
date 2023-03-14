@@ -1,0 +1,5 @@
+leia x
+var resultado = 1
+para cada numero entre 1 e x, faça:
+resultado = resultado * numero_atual
+escreva resultado

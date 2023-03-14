@@ -1,0 +1,14 @@
+leia valor inserido
+leia unidade
+
+se unidade = celsius
+faca;
+1- (valor inserido * 9/5) + 32 = resultado farenheit
+2- escrever resultado farenheit
+
+se unidade = farenheit
+faca;
+1- (valor inserido - 32) / (5/9) = resultado celsius
+2- escrever resultado celsius
+
+fim

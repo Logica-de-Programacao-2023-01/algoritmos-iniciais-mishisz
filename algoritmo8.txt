@@ -1,0 +1,4 @@
+leia base
+leia altura
+área = (base * altura)/2
+escreva área

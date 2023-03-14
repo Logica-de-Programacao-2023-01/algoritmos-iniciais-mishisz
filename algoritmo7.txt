@@ -1,0 +1,7 @@
+leia x
+para cada numero entre 2 e x-1, faça:
+se x dividido por numero_atual tem resto 0:
+escreva "não é primo"
+fim
+escreva "é primo"
+fim

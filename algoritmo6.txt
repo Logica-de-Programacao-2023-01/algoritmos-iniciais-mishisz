@@ -1,0 +1,6 @@
+leia x
+leia potencia
+var resultado = x
+para cada numero entre 1 e potencia, faça:
+resultado = resultado * x
+escreva potencia

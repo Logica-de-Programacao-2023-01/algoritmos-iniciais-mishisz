@@ -1,0 +1,21 @@
+var
+lista_numeros: vetor[1..10] de real
+soma_numero, media_numeros: real
+i: inteiro
+
+início
+para i de 1 a 10 faça
+escreva("digite o", i,"o número:")
+leia(lista_números[i])
+fim
+
+soma_números <-0
+para i de 1 a 10 faça
+soma_números <- soma_números + lista_números[i]
+fim
+
+média_números <- soma_números / 10
+
+escreva("a média da lista de números é:", media_números)
+
+fim
